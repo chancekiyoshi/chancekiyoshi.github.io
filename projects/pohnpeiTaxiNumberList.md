@@ -15,9 +15,7 @@ summary: "An interactive web application built with HTML and Claude AI that prov
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/blueNileIntersection.jpeg" class="img-thumbnail" >
   <img width="200px" src="../img/flatBed.jpeg" class="img-thumbnail" >
-  <img width="200px" src="../img/townsDiner.jpeg" class="img-thumbnail" >
 </div>
 
 In Pohnpei, Micronesia, local taxi services are the main form of public transportation since there are no public buses or ride share apps like Uber or Lyft. However, finding a taxi number can be a real hassle. Physical phone books are out of date, taxi numbers aren't listed on Google, and calling FSM Telecom for a directory lookup costs extra money. 
