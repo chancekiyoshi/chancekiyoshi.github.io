@@ -15,7 +15,7 @@ summary: "An interactive web application built with HTML and Claude AI that prov
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/trafficPohnpei.jpg" class="img-thumbnail" >
+  <img class="img-thumbnail w-100" src="../img/trafficPohnpei.jpg">
 </div>
 
 
