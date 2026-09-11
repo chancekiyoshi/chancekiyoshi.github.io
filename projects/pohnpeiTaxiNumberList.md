@@ -25,4 +25,3 @@ In Pohnpei, Micronesia, local taxi services are the main form of public transpor
 To solve this for my community, I created a simple, direct web directory that centralizes local taxi dispatch numbers in one place for free. The site features tap-to-call buttons so anyone browsing on a mobile phone can immediately dial a cab with a single click—no copying, pasting, or directory fees required.
 
 To get the project up and running quickly, I used Claude AI to help generate and refine the underlying HTML code and layout, then customized the design for quick mobile navigation. The website is currently live, and I am now working on turning it into a downloadable mobile app to make accessing local taxi services even easier.
-
