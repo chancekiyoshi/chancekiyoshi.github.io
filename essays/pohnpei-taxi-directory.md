@@ -2,11 +2,14 @@
 layout: essay
 type: essay
 title: "Bridging the Gap: Building a Local Taxi Directory for Pohnpei"
+
 # All dates must be YYYY-MM-DD format!
+
 date: 2026-09-17
 published: true
 labels:
     - Community
+    
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
