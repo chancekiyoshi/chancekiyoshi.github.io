@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "chancekiyoshi", "url": "http://github.com/chancekiyoshi" },
-      { "network": "linkedin", "username": "chancekiyoshi", "url": "http://linkedin.com/in/chance-kiyoshi" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "chancekiyoshi", "url": "http://linkedin.com/in/chance-kiyoshi" }
     ]
   },
   "interests": [
@@ -25,19 +23,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "Networking", "Operating System" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-24",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,70 +43,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Hamilton Library DNS",
+      "position": "Desktop Network Services Student Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-10-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Desktop and network IT support specialist for Hamilton Library desktop systems and patron loaner equipment.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Troubleshoot, repair, and maintain desktop PC hardware, software, and peripheral systems for library staff and patrons.",
+        "Configure, deploy, and support loaner devices—including laptops and iPads—assisting students with hardware setups and application troubleshooting.",
+        "Diagnose and resolve local area network (LAN) and connectivity issues to ensure reliable desktop network access."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "College of Micronesia-FSM",
+      "position": "Information Technology Specialist",
+      "website": "http://www.comfsm.edu.fm",
+      "startDate": "2021-05-01",
+      "endDate": "2023-04-30",
+      "summary": "Provided hands-on hardware, software, and network infrastructure support across campus facilities and dormitories.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Configured, deployed, and mounted outdoor wireless access points across campus buildings and dormitories to expand network coverage.",
+        "Executed physical network infrastructure installations, including pulling and terminating cabling and fiber lines.",
+        "Performed technical maintenance, system installations, and network troubleshooting for campus-wide IT systems."
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+  ]
+}
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Student Employee of the Year",
+      "date": "2024-2025",
+      "awarder": "UH Manoa Hamilton Library",
+      "summary": "Outstanding performance and assistance."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
