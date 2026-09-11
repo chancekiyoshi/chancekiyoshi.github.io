@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/pohnpeiTaxiNumberList.jpg
 title: "Pohnpei Taxi Number List"
 date: 2026-07-19
 published: true
