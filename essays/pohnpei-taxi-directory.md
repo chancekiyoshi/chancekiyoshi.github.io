@@ -9,7 +9,7 @@ labels:
   - Community
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/taxi.png">
 
 Moving between Pohnpei and Hawaii makes you realize pretty quickly how different daily transportation is. In Hawaii, people have all kinds of public transit options like TheBus, trolleys, and the Skyline rail. But back home in Pohnpei, we don't have city buses or train systems. People rely on walking, driving their own cars, or catching a local taxi. Since not everyone back home can afford a car, taxis are a huge lifeline for getting around.
 
