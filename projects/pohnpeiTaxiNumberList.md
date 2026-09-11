@@ -26,18 +26,3 @@ To solve this for my community, I created a simple, direct web directory that ce
 
 To get the project up and running quickly, I used Claude AI to help generate and refine the underlying HTML code and layout, then customized the design for quick mobile navigation. The website is currently live, and I am now working on turning it into a downloadable mobile app to make accessing local taxi services even easier.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
