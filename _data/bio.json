@@ -37,8 +37,15 @@
       "studyType": "B.S.",
       "startDate": "2023-08-24",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
+    },
+    {
+      "institution": "College of Micronesia-FSM",
+      "area": "Computer Information Systems",
+      "studyType": "A.S.",
+      "startDate": "2018-08-15",
+      "endDate": "2023-05-15",
+      "courses": []
     }
   ],
   "work": [
@@ -76,8 +83,14 @@
       "title": "Student Employee of the Year",
       "date": "2024-2025",
       "awarder": "UH Manoa Hamilton Library",
-      "summary": "Outstanding performance and assistance."
+      "summary": "Award for outstanding performance and assistance."
     },
+    {
+      "title": "Employee of the Month",
+      "date": "2022-2023",
+      "awarder": "COMFSM President",
+      "summary": "Award for great performance."
+    }
   ],
   "references": [
     {
