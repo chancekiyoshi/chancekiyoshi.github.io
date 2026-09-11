@@ -7,8 +7,8 @@ date: 2022-06-20
 published: true
 labels:
  - Network Infrastructure
-  - Fiber Optics
-  - Hardware
+ - Fiber Optics
+ - Hardware
 summary: "Ran underground fiber optic cables across campus through challenging terrain to bring high-speed network connectivity to unlinked facilities."
 ---
 
