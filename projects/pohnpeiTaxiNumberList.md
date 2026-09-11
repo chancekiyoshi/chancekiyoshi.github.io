@@ -3,14 +3,15 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Pohnpei Taxi Number List"
-date: 2026-05-19
+date: 2026-07-19
 published: true
 labels:
   - HTML
   - Web Development
-  - Directory
+  - Claud AI
+  - Community Project
   - Pohnpei
-summary: "An interactive mobile-friendly."
+summary: "An interactive web application built with HTML and Claude AI that provides direct-dial access to Pohnpei's local taxi services, bridging the digital accessibility gap where public transportation info is not available online."
 ---
 
 <div class="text-center p-4">
@@ -19,9 +20,11 @@ summary: "An interactive mobile-friendly."
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In Pohnpei, Micronesia, local taxi services are the main form of public transportation since there are no public buses or ride share apps like Uber or Lyft. However, finding a taxi number can be a real hassle. Physical phone books are out of date, taxi numbers aren't listed on Google, and calling FSM Telecom for a directory lookup costs extra money. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+To solve this for my community, I created a simple, direct web directory that centralizes local taxi dispatch numbers in one place for free. The site features tap-to-call buttons so anyone browsing on a mobile phone can immediately dial a cab with a single click—no copying, pasting, or directory fees required.
+
+To get the project up and running quickly, I used Claude AI to help generate and refine the underlying HTML code and layout, then customized the design for quick mobile navigation. The website is currently live, and I am now working on turning it into a downloadable mobile app to make accessing local taxi services even easier.
 
 Here is some code that illustrates how we read values from the line sensors:
 
