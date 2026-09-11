@@ -6,9 +6,7 @@ title: "Bridging the Gap: Building a Local Taxi Directory for Pohnpei"
 date: 2026-09-17
 published: true
 labels:
-  - HTML
-  - Web Development
-  - Community
+    - Community
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
