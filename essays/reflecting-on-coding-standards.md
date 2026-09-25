@@ -11,6 +11,8 @@ labels:
   - Coding Standards
 ---
 
+![ESLint in VS Code](https://eslint.org/assets/img/computer-stress.jpg)
+
 When most people hear "coding standards," they usually think of minor formatting details like tabs versus spaces or where to put curly braces. At first, it seems like extra rules just for the sake of making code look uniform. But after using ESLint in VS Code over the past week, I realized coding standards are actually meant to stop you from making avoidable mistakes and help you learn the language better.
 
 ## Resolving an Unexpected Setup Issue
