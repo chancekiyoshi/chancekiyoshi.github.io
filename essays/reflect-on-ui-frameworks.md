@@ -11,7 +11,7 @@ labels:
   - ICS 314
 ---
 
-![Bootstrap 5 Comparison](../img/bootstrap5Example.jpeg)
+![Bootstrap 5 Comparison](../img/bootstrap5example.jpeg)
 
 When you start learning web development, raw HTML and CSS feel simple. You write a tag, add a styling rule, and see immediate results. But as projects grow to fit desktops, tablets, and smartphones, raw CSS quickly becomes a headache of media queries and layout bugs.
 
