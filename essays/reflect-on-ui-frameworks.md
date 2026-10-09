@@ -31,7 +31,7 @@ Making a website look good across all screen sizes in vanilla CSS requires const
 
 The practical value of Bootstrap 5 became obvious during our E36 practice WOD, where we recreated the *GoHawaii* "Eat Local, Shop Local" page.
 
-![GoHawaii Comparison](../img/boot5strap.jpeg)
+![GoHawaii Comparison](../img/bootstrap5Example.jpeg)
 *Figure 1: Original GoHawaii page vs. my Bootstrap 5 re-creation.*
 
 While my version wasn't a perfect replica of the original, Bootstrap made building the core structure much faster:
