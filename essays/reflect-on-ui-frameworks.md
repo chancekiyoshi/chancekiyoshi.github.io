@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Why Suffer Through UI Frameworks? A Defense of Bootstrap 5"
-date: 2026-10-08
+date: 2026-10-07
 labels:
   - Software Engineering
   - UI Frameworks
   - Bootstrap
   - TechFolio
 ---
+
 # Why Suffer Through UI Frameworks? A Defense of Bootstrap 5
 
 When you start learning web development, raw HTML and CSS feel simple. You write a tag, add a styling rule, and see immediate results. But as projects grow to fit desktops, tablets, and smartphones, raw CSS quickly becomes a headache of media queries and layout bugs.
@@ -30,7 +31,7 @@ Making a website look good across all screen sizes in vanilla CSS requires const
 
 The practical value of Bootstrap 5 became obvious during our E36 practice WOD, where we recreated the *GoHawaii* "Eat Local, Shop Local" page.
 
-(../images/bootstrap5Example.jpeg)
+![GoHawaii Comparison](../img/bootstrap5Example.jpeg)
 *Figure 1: Original GoHawaii page vs. my Bootstrap 5 re-creation.*
 
 While my version wasn't a perfect replica of the original, Bootstrap made building the core structure much faster:
@@ -56,4 +57,4 @@ While Bootstrap 5 has an initial learning curve, the payoff in development speed
 
 ## AI Attribution
 
-*In accordance with course guidelines, AI (Gemini) was used to correct grammar. 
+*In accordance with course guidelines, AI (Gemini) was used as a writing assistant to help edit, structure, and refine this essay.*
