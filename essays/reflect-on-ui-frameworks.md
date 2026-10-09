@@ -11,7 +11,7 @@ labels:
   - ICS 314
 ---
 
-![Bootstrap 5 Comparison](../img/boot5strap.jpeg)
+<img width="250px" class="rounded float-start pe-4 mb-3" src="../img/bootstrap5example.jpeg">
 
 When you start learning web development, raw HTML and CSS feel simple. You write a tag, add a styling rule, and see immediate results. But as projects grow to fit desktops, tablets, and smartphones, raw CSS quickly becomes a headache of media queries and layout bugs.
 
