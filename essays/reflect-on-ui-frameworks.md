@@ -1,4 +1,5 @@
 ---
+layout: essay
 type: essay
 title: "Why Suffer Through UI Frameworks? A Defense of Bootstrap 5"
 date: 2026-10-07
@@ -10,13 +11,11 @@ labels:
   - ICS 314
 ---
 
-<img width="200px" class="rounded float-start pe-4 mb-3" src="../img/bootstrap5Example.jpeg">
+![Bootstrap 5 Comparison](../img/bootstrap5Example.jpeg)
 
 When you start learning web development, raw HTML and CSS feel simple. You write a tag, add a styling rule, and see immediate results. But as projects grow to fit desktops, tablets, and smartphones, raw CSS quickly becomes a headache of media queries and layout bugs.
 
 In ICS 314, my introduction to UI frameworks came through Bootstrap 5. Learning a framework initially felt like learning a whole new language filled with custom class names and grid rules. But after using it, the benefits over plain HTML and CSS became clear.
-
-<div class="clearfix"></div>
 
 ## Why Use Bootstrap 5?
 
@@ -44,4 +43,6 @@ In software engineering, you rarely build foundational tools from scratch when t
 
 While Bootstrap 5 has an initial learning curve, the payoff in development speed, device responsiveness, and cleaner code is worth it. Re-creating the GoHawaii page showed me that frameworks give you a polished, responsive baseline in a fraction of the time raw CSS requires.
 
-*Note: AI (Gemini) was used as a writing assistant to help edit, structure, and refine this essay.*
+---
+
+* Note on AI Assistance: English is not my first language, so I used Gemini to help refine my grammar. All of the personal experiences and opinions described here are my own. *
